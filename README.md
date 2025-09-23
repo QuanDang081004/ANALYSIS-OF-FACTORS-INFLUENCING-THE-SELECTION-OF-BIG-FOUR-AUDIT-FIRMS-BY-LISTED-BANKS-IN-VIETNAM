@@ -1,1 +1,8 @@
 # FACTORS-AFFECTING-THE-GPA-OF-STUDENTS-AT-UNIVERSITY-OF-ECONOMICS-HO-CHI-MINH-CITY
+This research analyzes the factors influencing the selection of Big Four audit firms (Deloitte, PwC, EY, and KPMG) by listed banks in Vietnam during the period from 2017 to 2023. The study aims to identify financial factors affecting the choice of Big Four auditors, employing logistic regression models on data collected from publicly disclosed financial statements of banks listed on the HOSE, HNX, and UPCoM exchanges.
+
+The findings reveal that factors such as bank size (SIZE) and return on assets (ROA) have a significant and positive impact on the likelihood of choosing Big Four auditors. Larger banks with higher operational efficiency are more likely to select reputable audit firms to enhance transparency and gain investor trust. Meanwhile, foreign ownership ratio (FOR) exhibits a positive trend but lacks strong statistical significance, and the debt ratio (DEBT) does not significantly explain the selection behavior.
+
+The Hosmer-Lemeshow test and the ROC curve (AUC = 0.9440) demonstrate that the logistic regression model has excellent predictive capabilities, with an accuracy rate of 94.40%. This confirms that the model is applicable for forecasting decisions to select Big Four auditors within the context of Vietnam's listed banking sector.
+
+Based on the research results, recommendations are provided for banks, regulatory agencies, and investors to improve financial statement quality and strengthen trust in the financial market. However, the study acknowledges certain limitations, such as the exclusion of non-financial factors and the restricted data scope. These limitations pave the way for future research to expand and refine the analytical model.
